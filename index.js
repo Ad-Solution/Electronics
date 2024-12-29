@@ -2,15 +2,15 @@
 const electronicsData = [
     {
         id: 1,
-        name: 'Samsung',
-        category: 'Mobile Phone',
-        price: 'Rs.50,000',
-        location: 'Colombo',
-        warranty: 24,
-        year: 2022,
+        name: '',
+        category: '',
+        price: '',
+        location: '',
+        warranty: ,
+        year: ,
         images: ['img7.jpg', 'img7.jpg', 'img7.jpg', 'img7.jpg'],
-        postedDate: '2023-01-01',
-        description: 'This is a great laptop. It has been well maintained and is in excellent condition. Perfect for work or gaming.'
+        postedDate: '',
+        description: ''
     },
     // Add more electronics items here
 ];
